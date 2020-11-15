@@ -1,6 +1,6 @@
-# Webpack Starter
+# Lista de tareas personalizable
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Este es el proyecto para organizar tareas cotidicanas o tecnicas
 
 ### Notas:
 
